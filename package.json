@@ -1,0 +1,11 @@
+{
+  "name": "module-inertia",
+  "version": "1.0.0",
+  "description": "模块化封装inertia",
+  "main": "Inertia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "openfe",
+  "license": "ISC"
+}
